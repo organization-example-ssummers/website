@@ -9,3 +9,5 @@ Updates made on Master on GitHub before rebase.
 This is just a README file.
 
 Simiply testing fetch + merge.
+
+Confirming that pull works the same now, in one step.
