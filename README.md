@@ -7,3 +7,5 @@ Updates made on Master on GitHub before rebase.
 ## Repository Purpose
 
 This is just a README file.
+
+Simiply testing fetch + merge.
